@@ -1,0 +1,7 @@
+baseURL = 'https://hexsunset.github.io/'
+languageCode = 'et-ee'
+title = 'Kosmoloogia'
+theme = 'hugo-book'
+
+[params]
+BookMenuBundle = '/contents/menu'
