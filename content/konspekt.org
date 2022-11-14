@@ -1,0 +1,429 @@
+#+title: Kosmoloogia konspekt
+#+author: Luhamaa ja teised
+
+{{< include-html "/layouts/math.html" >}}
+
+* Sissejuhatus
+Kosmoloogia - universumi uurimise teadus.
+Astronoomia - Täheteadus
+Astroloogia - Tähtede järgi ennustamine
+
+Primitiivne kosmoloogia - Inimese vahetu taju abil tekkiv maailmapilt. Enne teleskoope ja muud tehnikat.
+
+Esimene kalender loodi Julius Caesari käsul. Selles kalendris on aastas 365 päeva ja iga nelja aasta tagant üks rohkem, et kalender aastaaegadest maha ei jääks. 16. sajandil loodi paavst Gregoriuse kalender. See võeti Eestis kasutusele 20. sajandil.
+
+
+** Klassikaline kosmoloogia
+Vana-Kreekas tekkinud teooria kosmose olemusest.
+
+Põhiideed:
+  - Maakera on universumi keskpunkt
+  - Taevased objektid liiguvad ümber maakera matemaatiliselt ideaalseid ringe mööda, iga planeet on oma kristallsfääri küljes kinni.
+  - Neid kristallsfääre on väga mitmel tasandil, sest planeetide orbiidid ei ole ideaalsed. Neid sfääride jadasid nimetatakse /epitsükliteks/.
+  - Kristallsfääride taga on nende liikumise mehhanism.
+  - Taevased objektid on jumalikud ja muutumatud, ideaalsed.
+
+
+** Kopernik (1473-1543)
+Lõi esimese heliotsentrilise (keskel on Päike) süsteemi, tahtis sellega epitsüklite süsteemi lihtsustada. See algne süsteem oli aga ebatäpsem ja seda ei võetud selle pärast kasutusele.
+
+** Tycho Brahe (1546-1601)
+Tõestas, et komeedid liiguvad planeetide vahel, ei ole lihtsalt atmosfäärinähtused, nagu varem arvati. Nägi ja vaatles supernoovat. Näitas sellega, et taevas asjad muutuvad, ei ole ideaalsed ja igavesed. Tähtede parallaksi ei suutnud ta siiski mõõta, maakera jäi süsteemi keskpunktiks.
+
+*Parallaks* - Liikuva objekti vaatepunktist muutub lähemal olevate asjade asukoht rohkem, kui kaugemate objektide oma. Saab kasutada objektide kauguse arvutamiseks.
+
+** Johannes Kepler (1571-1630)
+Tõestas, et planeetide orbiidid ei ole ringid. Lõhkus kristallsfääride idee.
+
+** Galileo Galilei (1564-1642)
+Ehitas endale teleskoobi. Nägi sellega, et Kuu on sarnane Maale, tal on mäed, orud ja teised pinnavormid. Nägi, et linnutees on loendamatult palju tähti.
+
+* Newtoni gravitatsiooniseadus
+\begin{equation}
+  F = \frac{G m_1 m_2}{r^2}
+\end{equation}
+
+
+$m_1$ on ühe keha mass.
+
+$m_2$ on teise keha mass.
+
+$r$ on nendevaheline kaugus.
+
+$G = 6.674 \cdot 10^{-11} \frac{N \cdot m^2}{kg^2}$ on gravitatsiooni konstant.
+
+* Kepleri kolm seadust
+
+#+CAPTION: Kepleri seadused
+[[/pildid/kepleri_seadused.png]]
+
+** Taevakeha orbiidi kuju seadus
+Kõigi taevakehade orbiidid on ellipsid, mille üheks fookuseks on päike.
+
+** Pindalade võrdsuse seadus
+Pindalade võrdsus. Planeedi raadiusvektor katab alati sama ajaga sama pindala.
+   
+** Planeetide tiirlemisperioodide seadus
+Planeetide tiirlemisperioodide ruudud suhtuvad nagu nende orbiitide pikemate pooltelgede kuubid
+
+\begin{equation}
+  T = 2\pi\sqrt{\frac{r^3}{GM}}
+\end{equation}
+
+\begin{equation}
+  \frac{T_{1}^2}{T_{2}^2} = \frac{r_{1}^3}{r_{2}^3}
+\end{equation}
+
+* Hubble'i seadus universumi paisumise kohta
+\begin{equation}
+  v = H_0 l
+\end{equation}
+
+$H_0$ tähistab Hubble'i konstanti ja on väärtusega $75\frac{km/s}{Mpc}$.
+
+$l$ tähistab objekti kaugust vaatlejast parsekides.
+
+$v$ tähistab objekti kaugenemise kiirust universumi paisumise tõttu.
+
+Parsek ($pc$) /e/ kaaresekund on pikkusühik, saadakse parallaksi mõõtmise kaudu. Kaaresekund. $1pc = 3,26ly$
+
+* Doppleri effekt
+Igasuguste lainete näiv sagedus muutub kõrgemaks/madalamaks olenevalt sellest, kuidas vaatleja ja allikas liiguvad teineteise suhtes. Kui vaatleja ja allikas eemalduvad üksteisest muutub sagedus väiksemaks ja lainepikkus pikemaks. Valgus punasemaks, *punanihe*. Lähenemisel sagedus suurem, lainepikkus lühem. Valgus sinisem, *sininihe*.
+
+\begin{equation}
+  f = (\frac{c\pm v_r}{c \pm v_s})f_0
+\end{equation}
+
+$c$ on laine levimise kiirus keskkonnas.
+
+$f_0$ on algne sagedus.
+
+$v_r$ on vaatleja kiirus allika suhtes.
+
+$v_s$ on allika kiirus vaatleja suhtes.
+
+#+CAPTION: Doppleri effekt
+#+attr_html: :width 600px
+[[/pildid/Doppler.png]]
+
+* Parallaks ja parsek
+
+Kaugemal asuvad objektid liiguvad näivalt vähem vaatleja suhtes kui lähedal olevad objektid. Mõõdetakse kraadides, saab kasutada kauguste määramiseks kosmoses.
+
+Parsek ($pc$) on objekti kaugus, mis liigub parallaksi tõttu näiliselt 1 kaaresekundi ($1/3600$ kraadi).
+
+$1 pc = 3.26 ly$.
+
+#+CAPTION: Parallaks ja parsek
+#+attr_html: :height 400px
+[[/pildid/Parallaks_ja_parsek.png]]
+
+
+* Tähesuurus
+On tähe näiline heledus maalt vaadatuna. Seotud tähe tõelise heleduse ehk magnituudiga ja tema kaugusega maast.
+
+Tähesuurust mõõdetakse logaritmilisel skaalal, väiksem number tähendab, et täht on heledam.
+
+** Definitsioon
+\begin{equation}
+  m = m_0 - 2.512\log{E}
+\end{equation}
+
+$m$ on tähe näiv tähesuurus.
+
+$m_0$ on nn nullinda suurusjärgu tähe tähesuurus, mida kasutatakse skaala paika panemiseks.
+
+$E$ on fotomeetriliselt mõõdetav valgustatus.
+
+** Absoluutne tähesuurus
+Absoluutne tähesuurus on tähe näiv tähesuurus, mis on mõõdetud 10 parseci kauguselt.
+
+\begin{equation}
+  M = m + 5 + 5\log{D}
+\end{equation}
+
+$M$ on absoluutne tähesuurus.
+
+$m$ on näiv tähesuurus maalt vaadatuna.
+
+$D$ on kaugus maast.
+
+** Tehted näiva tähesuurusega
+
+Mitu korda heledam on üks täht teisest?
+
+\begin{equation}
+  \frac{E_1}{E_2} = 10^{-0.4(m_1 - m_2)}
+\end{equation}
+
+Mis on kahe tähe heleduse vahe?
+
+\begin{equation}
+  m_1 - m_2 = 2.512\log{\frac{E_1}{E_2}}
+\end{equation}
+
+* Maa ja taevas
+Tähistaevas on näha kokku 88 tähtkuju, mida on läbi ajaloo kasutatud orienteerumiseks. Samuti on 12 sodiaagi tähtkuju, mis tähistavad päikese teekonda.
+
+Maakeral kulub ~1 aasta, et teha ring ümber Päikese. Ümber omaenda telje pöörleb ta 23h ja 56 minutiga. 24h päev on võetud päikese suhtes. Maakera orbiit ja
+pöörlemistelg ei ole staatilised.
+
+Mitmete aastatuhandete tagant toimuvad suured muudatused kliimas (jääajad jne).
+
+** Kuu
+Planeedi Maa looduslik kaaslane, mille läbimõõt on ligikaudu 1/4 maa läbimõõdust. Kõik kuud on alati ühe ja sama poolkeraga planeedi poole suunatud. See on
+põhjustatud tõusu ja mõõna jõu poolt.
+
+*** Varjutused
+
+#+attr_html: :width 600px
+#+CAPTION: Päikesevarjutus
+[[/pildid/päikesevarjutus.jpg]]
+
+#+attr_html: :width 600px
+#+CAPTION: Kuuvarjutus
+[[/pildid/kuuvarjutus.png]]
+
+* Päikesesüsteem
+Päikesesüsteem koosneb Päikesest ja tema ümber tiirlevatest kehadest. Sinna alla kuuluvad planeedid (8) ja nende kuud, kääbusplaneedid (5+), asteroidid ja komeedid.
+Oluline on teada, et kõik need kehad on saanud alguse samast ainepilvest ja tiirlevad ühel tasandil, iga keha, mis on väljaspool seda tasandit on pärit väljaspoolt.
+
+** Roche piir
+Kaugus, milles edasi planeedi gravitatsioonijõud rebiks kaaslase katki. See on hiidplaneetide rõngaste tekkimise põhjuseks.
+
+** Öpiku-Oorti pilv
+Hüpoteetiline komeetidest koosnev sfääriline pilv, mis on umbes $50000 au$ kaugusel Päikesest.
+
+** Planeedid
+Kõik planeedid tiirlevad ühel tasandil ja samas suunas päikese pöörlemisega. Planeedid on ümmargused kehad, mis tiirlevad ümber päikese. Ta ei tohi olla mitme keha süsteemis, mille gravitatsiooniline keskpunkt on temast väljaspool.
+
+|             | Hiidplaneedid      | Maa tüüpi planeedid    |
+|-------------+--------------------+------------------------|
+| *Koostis*   | Hõredad gaasikerad | tahked, hõre atmosfäär |
+| *Kaaslased* | Väga palju         | Pole                   |
+| *Rõngad*    | On kõigil          | Puudub                 |
+
+#+CAPTION: Päikesesüsteemi planeedid
+[[/pildid/planets-to-scale.jpg]]
+
+*** Merkuur
+Merkuur on kõige väiksem planeet ja Päiksele kõige lähem. Tal puudub atmosfäär ja orbiit on piklik. Välimuselt meenutab Kuud.
+
+#+attr_html: :width 480px
+#+CAPTION: Merkuur
+[[/pildid/merkuur.jpg]]
+
+*** Veenus
+Veenus on Maale lähim planeet ja talle sarnase suurusega. Ta on kaetud tiheda ja läbipaistmatu pilvekihiga,
+mille põhjustatud kasvuhooneefekti tõttu on ta kõige kuumema pinnaga planeet.
+
+#+attr_html: :width 480px
+#+CAPTION: Veenus (radarkaart)
+[[/pildid/Veenuse-radarkaart.jpg]]
+
+*** Maa
+Maa on eriline, sest siin on vesi kolmes faasis, mis on alus elu tekkimiseks. Lisaks on meie Kuu üks suuremaid kaaslasi terves päikesesüsteemis.
+
+#+attr_html: :height 480px
+#+CAPTION: Maa
+[[/pildid/Maa.jpg]]
+
+*** Marss
+Marss on punase pinnaga planeet, mis on mõõtmetelt pool Maad. Tal on kaks kaaslast Phobos ja Deimos. Marsi pinnal on kuivanud jõesängid ja poolustel on jääd.
+Marss on ainus planeet, mille peale inimesed minna tahavad.
+
+#+attr_html: :height 480px
+#+CAPTION: Marss
+[[/pildid/Marss.png]]
+
+*** Jupiter
+Jupiter on päikesesüsteemi suurim planeet. Ta on gaasihiid ja koosneb põhiliselt vesinikust ja heeliumist. Jupiter on äratuntav oma triipude ja punase täpi pärast.
+Kokku on tal üle 80 kuu.
+
+#+attr_html: :height 480px
+#+CAPTION: Jupiter
+[[/pildid/Jupiter.jpg]]
+
+#+CAPTION: Jupiteri suuremad ja olulisemad kaaslased (Galilei kuud)
+  + *Io* - Kõige geoloogiliselt aktiivsem keha päiksesüsteemis, ta pinnal on mitusada väävlit purskavat vulkaani.
+  + *Europa* - Ülisileda jääst pinnaga kuu. Arvatakse, et ta pinna all võib olla soe ookean, kus saaks elu eksisteerida.
+  + *Ganymedes* - Päiksesüsteemi suurim kuu ja ainus, millel on magnetväli.
+  + *Callisto* - Suht igav.
+
+*** Saturn
+Saturn on tuntud oma rõnga poolest, mis on kõige paremini nähtav päiksesüsteemis. Ta kaaslane Titaan on ainuke atmosfääriga kuu päiksesüsteemis.
+Kokku Jupiteriga sarnane hulk kaaslasi.
+
+#+attr_html: :height 480px
+#+CAPTION: Saturn
+[[/pildid/Saturn.jpg]]
+
+*** Uraan
+Uraan on ühtlase välimusega helesinine gaasihiid. Erinevalt teistest planeetidest on ta pöörlemistelg peaaegu orbiidi tasandil.
+
+*** Neptuun
+Sarnane Uraanile, aga raskem. Tema pinnal on näha pilvi ja torme. Avastati algselt arvutuste kaudu, vaatlusi tehti hiljem. Tema kuu Triton on päiksesüsteemi ainus suur kuu, mis tiirleb vastupäeva. See tähendab, et ta ei ole algselt süsteemist pärit, kinni püütud.
+
+#+attr_html: :height 480px
+#+CAPTION: Uraan vs Neptuun
+[[/pildid/Uraan-Neptuun.jpeg]]
+
+** Asteroidid
+Kivist ja/või metallist kamakad. Enamik asuvad Marsi ja Jupiteri vahelises vöös. Neil ei ole kindlaid orbiite. Asteroide on loendamatu arv. Jupiteri
+gravitatsiooniväli hoiab paljusid asteroide maast eemal.
+
+** Komeedid e sabatähed
+Jää- ja kivikamakas (kosmoses on jää igasugune tahke gaas). Pärit Kuiperi vööst. Päikesele lähenedes hakkab sulama, nähtav saba tekib umes Saturni oriidi kaugusel.
+Meteoorivool tekib, kui Maa liigub läbi komeedi saba jäänuste, mis põleb atmosfääris ja tekitab sähvatusi.
+
+*Meteoor* - ligikaudu liivatera suurune jää/kivitükk, mis põleb atmosfääris.
+
+*Meteoriit* - Meteoor, mis jõuab maapinnale.
+
+* Tähed
+Tähed on hiigelsuured tulised gaasikerad. Nende pinnatemperatuur on 3000K - 30000K.
+
+#+CAPTION: H-R diagramm
+[[/pildid/HR-diagram.png]]
+
+** Päike
+#+attr_html: :height 600px
+#+CAPTION: Päike
+[[/pildid/Päike.jpg]]
+
+
+#+CAPTION: Päikese koostis
+| Aine    | Protsent |
+|---------+----------|
+| Vesinik |      75% |
+| Heelium |      24% |
+| /Muu/   |       1% |
+
+Ligikaudu 80% tähtedest on meie päikesest väiksemad, aga kõik palja silmaga nähtavad tähed on suuremad.
+
+Päikese pinnal olevat jahedamat kohta kutsutakse päikeseplekiks. Mida rohkem plekke, seda aktiivsem ta on. Plekid ei liigu kaasa ülejäänud pinnaga, neid hoiab paigal
+Päikese magnetväli.
+
+Protuberents e päikesetuul on suur magnettorm, mis lendab päikesest eemale.
+
+** Tähtede energiaallikas
+Tähe suure massi ja seega gravitatsiooni tõttu on selle sees ekstreemselt kõrge rõhk ja temperatuur, mis võimaldab vesinikuaatomitel kombineeruda heeliumiks, mille tagajärjena päikese kogumass väheneb ja vabaneb energia. Normaalses tähes on gravitatsioon ja aatomite kombineerumisel tekkiv energia tasakaalus.
+
+#+attr_html: :height 480px
+#+CAPTION: Prooton-prooton reaktsioon
+[[/pildid/Prooton-prooton-reaktsioon.png]]
+
+** Valged kääbused
+Valged kääbused on pisikesed ja tuhmid, kuid väga tulised tähed. Nad on tekkinud väikeste tähtede surma tagajärjel.
+
+** Punased hiidtähed
+Punased hiiud on keskmise massiga suured ja heledad, kuid külmad tähed. Need tähed on oma elu lõppu jõudmas.
+
+** Tähtede elutsükkel
+Ainus füüsiline suurus, mis tähe arengut mõjutab on tema algne mass. Suurem mass tähendab lühemat eluiga, sest rõhk ja temperatuur on suuremad ja reaktsioonid
+toimuvad kiiremini.
+
+Tähed sünnivad gaasi ja tolmupilvedest, mis tõmbuvad gravitatsiooni mõjul kokku, kuni süttivad. Kokkutõmbumisel paiskub see pilv uuesti laiali kui selle mass on üle
+100 päikese
+
+Algul kombineerub tähes vesinik heeliumiks. Vesiniku otsa saamisel hakkab täht paisuma (peajadast välja). Edasi hakkab kombineeruma heelium, tähe temperatuur kasvab
+järjest.
+
+Kuna mass järjest väheneb, tekib ühel hetkel olukord, kus gravitatsioon ei suuda enam tähesisesele survele vastu pidada ja tähe välimised kihid paiskuvad laiali.
+Alles jääb tihe tuum ehk valge kääbus. See juhtub, kui tähe algne mass on alla 8 päikesemassi.
+
+Suurtes tähtedes on võimalik põletada heeliumist raskemaid elemente. Lõpuks tekib tähes raud-nikkel tuum. Gravitatsioonile vastu töötav jõud kaob ja terve täht kukub
+kokku ja põrkab suure hooga tuumalt tagasi, tekitades hiigelsuure plahvatuse ehk supernoova. Supernoova tagajärjel tekib uus udukogu, mis võib viia uute tähtede
+tekkeni. Kõik universumis olevad elemendid on tekkinud supernoovade tagajärjena. Pauk on nii kõva, et tekivad ka rauast raskemad elemendid. Meie Päike on 2.-3.
+põlvkonna täht, muidu poleks päikesesüsteemis neid raskeid elemente, mida siin leidub.
+
+Supernoova tekkimiseks on kaks erinevat varianti.
+  + Tüüp I - Mitme tähe süsteemis olev valge kääbus imeb paisuva tähe materjali endale, kuni plahvatab. Nad kõik plahvatavad samamoodi ja saab seega kasutada nn
+    standardküünlana ja mõõta universumis kaugusi.
+  + Tüüp II - Plahvatav hiidtäht, igas olukorras erinev.
+
+Supernoova tagajärjel võib juhtuda erinevaid asju, olenevalt tähe massist. 1,4 kuni 3 päikesemassiga tähe tuumast tekib neutrontäht, kus suure gravitatsiooni tõttu
+surutakse elektronid ja prootonid kokku ja tekivad neutronid. Kui tähe mass on >3 päikesemassi tekib tuumast must auk, gravitatsioon võidab ja kogu mass surutakse
+ühte punkti kokku.
+
+#+CAPTION: Supernoova tagajärjed
+| Tähe mass            | Supernoovast tekib |
+|----------------------+--------------------|
+| 1,4 - 3 päikesemassi | Neutrontäht        |
+| 3+ päikesemassi      | Must auk           |
+
+Noova tekib siis, kui täht sähvatab heledalt, sest sai järsku kütust juurde.
+
+** Pulsarid
+Pulsar on neutrontäht või must auk, mis kiirgab maa suunas korrapäraste vahemikega elektromagnetlaineid. Pulsari ümber on kiiresti pöörlev gaasipilv. Pulsarid
+kiirgavad röntgen ja/või raadiokiiri magnetpooluste suunas. Nende signaalide abil on võimalik uusi musti auke avastada.
+
+#+attr_html: :width 600px
+#+CAPTION: Pulsari skeem
+[[/pildid/Pulsar.png]]
+
+** Must auk
+Must auk on piirkond, kus gravitatsioon on nii tugev, et isegi valgus ei saa sellest välja. Selle piiri nimi on sündmuste horisont. Mustas augus tõmmatakse ühte
+punkti ehk singulaarsusesse kokku. Ainus füüsiline suurus, mis säilib, on mass. Kui läheneb mustale augule, tõmmatakse tema ühte otsa palju tugevamalt kui teist ja
+see venitatakse välja kuni läheb katki. Seda nähtust kutsutakse spagetifitaktsiooniks.
+
+#+attr_html: :width 1000px
+#+CAPTION: Must auk Linnutee keskel
+[[/pildid/Must-auk.jpg]]
+
+* Galaktikad
+Galaktikad on suured tähtede kogumid, mille keskel on hiigelsuur must auk. Nad jaotatakse kolme gruppi:
+
++ Spiraal - Uute tähtede teke toimub ainult spiraalides, kus on gaasi ja tolmu.
++ Elliptilised - Kõige vanemad galaktikad, nendes pole gaasi/tolmu ja uusi tähti ei sünni.
++ Ebakorrapärased - Suhteliselt noored, toimub uute tähtede sünd.
+
+Galaktikate gravitatsioon on mitme suurusühiku võrra suurem, kui nähtava massi järgi olema peaks. Seda nähtamatut massi kutsutakse varjatud massiks ehk tumedaks aineks.
+
+#+CAPTION: Galaktikate koostis
+| Aine tüüp               | Protsent galaktika massist |
+|-------------------------+----------------------------|
+| Aatomitest koosnev aine |                         5% |
+| Tume aine               |                        27% |
+| Tume energia            |                        68% |
+
+Ligi pool galaktikas olevast meile tuntud ainest on lihtsalt tähtedevaheline gaas ja tolm.
+
+Galaktikad moodustavad omakorda superparvi, mis loovad piisavalt suurel skaalal kärjalaadse struktuuri. Linnutee asub Laniakea superparves.
+
+#+attr_html: :height 600px
+#+CAPTION: Laniakea superparv
+[[/pildid/laniakea-superparv.jpg]]
+
+* Tume aine ja energia
+*Aine* - Universumis mõjuv gravitatsioon on suurem kui ta nähtava massi järgi olema peaks.
+
+*Energia* -  Universum paisub kiirenevalt. No clue miks. Tume energia.
+
+* Universumi tekkimine
+Kahekümnenda sajandi alguseni arvati, et universum on igavene, alati olemas olnud ja ei lõppe kunagi. Einsteini teooria väidab aga, et universum peab kas paisuma või
+kahanema. Aastal 1924 kinnitas seda teooriat Hubble, kes avastas, et enamus galaktikaid eemalduvad Linnuteest. Seda seaduspära selgitab alguses mainitud
+Hubble'i valem. Selle valemi kaudu on võimalik välja arvutada, et universum sündis 13,8 miljardit aastat tagasi ja ta piir on seal, kus ruumi paisumine ületab $c$.
+
+** Suur pauk
+Universum tekkis singulaarsusest, kõik eksisteeriv materjal oli ühes punktis koos. Temperatuur ja rõhk olid lõpmatult suured. Singulaarsus hakkas paisuma, tekkisid
+ruumi ja aja mõisted. 10^-43 sekundit (Planck'i aeg) peale suure paugu algust tekkis gravitatsioonijõud, kolm ülejäänud jõudu on nii kõrgete temperatuuride juures
+veel koos. 10^-32 sekundit peale suure paugu algust algab inflatsioon e ruumi paisumise hüppeline kasv. See selgitab, miks unviersum on igal pool ühtlane. Eraldub
+tugev tuumajõud ja tekivad prootonid. Temperatuur langeb järjest. 380000 aastat peale universumi tekkimist on temperatuur piisavalt jahe, et elektronid saaksid
+ühineda prootonitega, universum muutub läbipaistvaks ja kiirgus saab levida! Vanim kiirgus ongi pärit sellest ajast ja on hetkel temperatuuriga 3K.
+
+#+attr_html: :width 600px
+#+CAPTION: Suure paugu käik
+[[/pildid/Suur_pauk.jpg]]
+
+Kosmoloogilised "paradoksid", mis viitavad Suure Paugu teooria olemasolule:
+  1. Gravitatsiooni paradoks. Kui universum on igavene, peaks kõik mass juba ühes punktis koos olema.
+  2. Termodünaamiline paradoks. Kui universum on igavene, peaks kõigi kehade temperatuur ühtlane olema.
+  3. Valguse paradoks. Õine taevas on must. Lõpmatult vanas universumis peaks terve taevas olema täis kaugetelt tähtedelt jõudnud valgust.
+
+** Universumi surm
+Erinevate teooriate alusel kas universumi paisumine muutub nii kiireks, et aatomid ei saa eksisteerida. Teine variant on see, et paisumine aeglustub ja kõik kukub
+singulaarsusesse.
+
+** Antroopsusprintsiip
+Universum on täpselt selliste omadustega, et meil oleks võimalik siin eksisteerida.

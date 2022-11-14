@@ -1,0 +1,96 @@
+#+title: Kosmoloogia kordamisülesanded
+
+* Õpik
+
+** Maa ja taevas
+
+1. Mida tähendab "kosmoloogia"? Mida see teadus uurib?
+   - Kosmose uurimine
+2. Mis on Universum?
+   - Kõik, mis eksisteerib.
+3. Milline oli primitiivsete kultuuride ettekujutus maailmast?
+   - Maa on ainuke koht, taevakehad on jumalate seatud märgid.
+4. Milline oli kreeklaste ja roomlaste arvates Universum?
+   - Maakera maailma keskel, planeedid on klaassfääride peal. Kõik on staatiline, ideaalne, igavene.
+5. Miks pidasid kreeklased Maad kera-, taevast sfäärikujuliseks?
+   - Nad olid välja arvutanud, et maakera on ümmargune. Taevas on sfäär sest tähtkujud liiguvad.
+6. Mille poolest erineb tänapäeva kosmoloogia varasematest maailmakirjeldustest?
+   - Universumil oli algus. Maakera pole keskpunkt. Ei ole lõpmatu ega igavene.
+7. Millised nähtused viitavad Maa kerakujulisusele?
+   - Asjad kaovad silmapiiri taha.
+   - Ajavööndid
+8. Mida on teada Maa sise-ehituse kohta?
+   - Tahke rauast tuum
+   - Vedel vahekiht
+9. Millised protsessid kujundavad Maa pinnaehitust?
+   - Laamade liikumine
+   - Vulkaanilised protsessid
+   - erosioon
+   - konvektsioon
+10. Milline on Maa atmosfäär?
+    - 78% Lämmastik
+    - 21% Hapnik
+    - 1% muu (vesi, co_2 jne)
+11. Kuidas mõjutab inimtegevus Maa kui planeedi seisundit?
+    - halvasti
+12. Millised muutused leiavad aset taevas?
+    - astronoomilised
+    - ilmastikunähtused
+    - öö ja päev
+    - aastaajad
+13. Kuidas on tähistaeva muutumine seotud aastaaegadega?
+    - Erinevad taevakehad on nähtavad erinevatel aegadel vastavalt poolkerale
+14. Mis on tähtkujud? Milleks neid vaja on?
+    - Kujutuslik tähtede grupeerimine
+    - Inimesed omistasid neile tähendusi
+15. Mis on Sodiaak?
+    - 12 tähtkujust koosnev süsteem vms
+16. Miks on tähtede asend taevasfääril püsiv?
+    - Nad on väga kaugel, muutusi on raske näha.
+17. Millisteks komponentideks jagatakse Maa liikumine?
+    - Tiirlemine ümber päikse
+    - Pöörlemine ümber telje
+    - Telje /võbin/
+18. Selgitage päikese- ja täheööpäeva erinevust?
+    - 24h tunnine formaat on päikese sama asendini jõudmine
+    - täheööpäev on ümber telje pöörlemise aeg, 23h 56m
+19. Mis on troopiline aasta?
+    - Aasta, mida mõõdetakse Päikese läbimineku läbi "kevadpunktist".
+20. Mis põhjustab planeetide näiva silmusekujulise liikumise tähtede suhtes.
+    - Me liigume ka nende suhtes
+21. Kirjeldage kuu- ja päikesevarjutust.
+    - Päikesevarjutus: Kuu tuleb maa ja päikese vahele. Osaline, täielik, annullaarne
+    - Kuuvarjutus: Maa tuleb kuu ja päikese vahele.
+22. /Joonise ülesanne/
+23. Millise kuu faasi ajal toimub kuuvarjutus?
+    - Täiskuu ajal
+24. Millise kuu faasi ajal toimub päikesevarjutus?
+    - Noorkuu
+25. /Tärn/
+26. /Tärn/
+27. Millal tekib rõngakujuline päikesevarjutus?
+    - Kuu on liiga kaugel maast et päikest täielikult varjata.
+28. Miks tekib poolvari? Selgitage poolvarjulist kuuvarjutust.
+    - Sest kuu ei kata päikest täjelikult.
+    - Kui kuu satub poolvarju piirkonda on tegemist poolvarjulise varjutusega, kui kasvõi osa kuust satub täisvarju on varjutus osaline.
+29. Kas on võimalik poolvarjuline päikesevarjutus?
+    - Ei
+30. Miks on astronoomidel tarvis mõõta nurki?
+    - Et kosmiliste kehade kaugust määrata.
+31. /tärn/
+32. Milles seisnevad teleskoobi eelised astronoomilistel vaatlustel?
+    - Kogub rohkem valgust
+    - Suurendab vaatenurka
+33. Millist infot võib saada tähtedelt tulevat valgust analüüsides?
+    - Mis ainetest ta koosneb.
+    - Kui valguse intensiivsus muutub perioodiliselt, on seal vahel mingi keha, planeet.
+34. Milliseid teleskoope (lisaks optilistele ) kasutab tänapäeva astrofüüsika?
+    - Infrapuna
+    - Röntgen
+    - Raadio
+35. Milliseid täiendavaid võimalusi annab astronoomiale kosmilise tehnika kasutamine?
+    - Maa atmosfäär ei mõjuta vaatlusi
+36. Kuidas planeerida mingi taevaobjekti vaatlemist? Milliseid abivahendeid kasutada?
+    - öiseks ajaks
+    - selge taevaga ajaks
+    - valgusreostusest eemal
