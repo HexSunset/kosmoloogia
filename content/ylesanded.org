@@ -94,3 +94,117 @@
     - öiseks ajaks
     - selge taevaga ajaks
     - valgusreostusest eemal
+
+** Päikesesüsteem
+
+1. Millistest taevakehadest koosneb Päikesesüsteem?
+   - planeedid + kuud, Päike, komeedid, asteroidid.
+2. Loetlege suured planeedid.
+   - Merkuur, Veenus, Maa, Marss, Jupiter, Saturn, Uraan, Neptuun.
+3. Millised planeedid kuuluvad Maa rühma? Millised on selle rühma tunnused?
+   - esimesed 4, nad on kivist ja metallist. Pisikesed aga tihked.
+4. Millised planeedid kuuluvad hiidplaneetide (Jupiter) rühma? Milised on selle rühma tunnused?
+   - ülejäänud 4, nad on gaasist, suured ja hõredad lol.
+5. Mille poolest erineb Pluuto teistest planeetidest?
+   - Orbiit liiga lapergune, süsteemis charoniga, väga pisike võrreldes teistega (< Kuu :))
+6. Millised on planeetide orbiidid? Kuidas nad paiknevad?
+   - Suhteliselt ringilähedased, ühel tasandil.
+7. Millal ja kus võib vaadelda Merkuuri ja Veenust?
+   - Merkuuri saab vaadata siis kui ta on päiksest võimalikult kaugel, 28k raadi
+   - Veenust kas koidu või eha ajal.
+8. Iseloomustage Merkuuri liikumist.
+   - 3 kuuga ümber päikse
+   - pöörlemisperiood 2/3 tiirlemisperioodist. ÖÖpäeva ja aasta pikkus sarnased.
+   - pöörleb tiirlemisega samas suunas
+9. Iseloomusta Veenuse liikumist.
+   - ööpäev natuke pikem kui aasta.
+   - pöörleb tiirlemisega vastupidises suunas
+10. Kirjeldage Veenuse välisilmet ja atmosfääri.
+    - Kaetud pideva pilvkattega, koosnevad väävelhappest jms. Atmosfäär 100x maa omast tihedam, 96% süsihappegaas.
+    - Hästi soe. Kõikse soojem planeet süsteemis.
+11. Mida teatakse Veenuse pinnaehitusest?
+    - See sarnaneb Maale. Mäed, orud jne.
+12. Miks on kuul näha alati sama külge?
+    - Sest Maa poolt avalduvad jõud on tema pöörlemist aeglustanud.
+13. Millal on kõige parem vaadelda Marssi?
+    - Vastasseis, Maa on Marsi ja Päikese vahel. Siis on ta ka kõige lähemal Maale.
+14. Võrrelge Maad ja Marssi.
+    - Marss on suuruselt pool Maad.
+    - Atmosfääri Marsil pm pole.
+    - Vedelat vett ka mitte. Poolustel jää.
+    - Mõned mäeahelikud ja kanjonid
+    - Marsil kaks kaaslast.
+    - Marss on Päikesest kaugemal, pikema tiirlemisperioodiga.
+    - Marss on punane, Maa pigem sinine.
+15. Mida on teada elust Marsil?
+    - Seal kunagi oli tõenäoliselt vedelat vett, jõesängid ja asjad.
+    - Hetkel ei saaks seal Maa elu hakkama
+16. Kuidas liiguvad Marsi kaaslased?
+    - Elliptiliste orbiitidega.
+
+17. Mille poolest erineb Jupiter Maa rühma planeetidest?
+    - ON kordades suurem
+    - Koosneb gaasist, mitte kivist ja metallist.
+    - Kordades rohkem kuid
+    - Hõredam
+18. Kuidas Jupiter pöörleb?
+    - Hästi kiiresti, kiireim pöörlemine süsteemis
+19. Iseloomustage Jupiteri nelja suuremat kaaslast. Kus on andmed pärit?
+    - Io - Kaetud väävlivulkaanidega
+    - Callisto - Paljude kraatritega
+    - Europa - Kaetud sileda jääkihiga, mille all vb on soe ookean, saaks elu olla???
+    - Ganymedes - suurim kuu
+20. Milest koosneb Jupiteri atmosfäär?
+    - Vesinik, Heelium
+21. Kirjeldage Saturni välisilmet.
+    - Rõngas
+    - triibud
+    - poolustel kuusnurgad
+22. Kirjeldage Saturni rõngast.
+    - See on hästi õhuke ~1-2km
+    - Koosneb jää ja kivipurust
+    - Roche piiri kaugusel
+23. Mille poolest erineb Saturni kaaslane Titan hiidplaneetide teistest kaaslastest?
+    - Tal on atmosfäär
+24. Kirjeldage Uraani pöörlemist.
+    - Pöörlemistelg on orbiidist 90 kraadise nurga all. Ta on hecking külili. He feel over and ravioli on hiim.
+25. Kuidas avastati Neptuun?
+    - Mingi nohik arvutas välja, et ta peaks seal olema. 1846
+26. Mille poolest erineb Neptuuni kaaslane Triton teistest suurtest kaaslastest?
+    - tiirleb tagurpidid
+27. Kirjeldage süsteemi Pluuto-Charon.
+    - Sarnaste suurustega kehad.
+    - ühine tiirlemise keskpunkt on pluutost väljaspool.
+28. Puudb
+29. Mida on näha väljaspool Pluuto orbiiti?
+    - Kuiperi vöö
+30. Mis on asteroid?
+    - Kivikamakas. Põhiliselt Marsi ja Jupiteri vahel ja Kuiperi vöös.
+31. Kirjeldage asteroidide liikumist.
+    - Ümber Päikse. Marsi ja Jupiteri orbiitide vahelises asteroidivöös. Ringikujulised orbiidid.
+32. Mis on komeet?
+    - Sabatäht, nagu muumides
+    - Jääst
+    - Päikesele lähemale jõudes hakkab sulama, jääb jää ja tolmupilv.
+33. Kirjeldage komeetide liikumist.
+    - Väga elliptiline orbiit.
+34. Mida nimetatakse meteooridks, meteoriidiks?
+    - Meteoor, langev täht, komeedi saba jäänus mis sähvatab maa atmosfääris, kui see liigub läbi komeedi jäetud pilve.
+    - meteoriit, maapinnale jõudev kivikamakas.
+35. Millised jõud kujundavad planeetide liikumist?
+    - Päikese gravitatsioon
+    - Teiste planeetide gravitatsioon
+    - Kuude gravitatsioon
+36. Kuidas tekivad looded (tõus ja mõõn)?
+    - Kuu tõmbab vett enda poole mõlemal planeedi poolel. Ülejäänud vesi liigub asemele, veetase langeb.
+37. Kuidas mõjutavad looded Maa ja kUu liikumist?
+    - Aeglustavad üksteise pöörlemise ja tiirlemise kiirust. Kuu eemaldub
+38. Mis on pretsessioon? Kuidas see tekib?
+    - Pöörleva keha pöörlemistelje pöörlemine.
+    - Maa ei ole ideaalne sfäär, Kuu ja Päikese gravitatsioon mõjutavad ta pöörlemist.
+39. Millest tekkisid planeedid?
+    - Samast algsest gaasi ja tolmupilvest nagu päike.
+40. Kuidas seletatakse kaht tüüpi planeetide teket?
+    - Tekivad erinevatest gaasipilve kihtidest, kus on raskemad elemendid päiksele lähemal. Keskel põhiliselt Vesinik ja Heelium
+41. Mis on Oorti pilv?
+    - Päikesesüsteemi ääres asuv pilv, kust komeedid tulevad. Komeetide pesa.
