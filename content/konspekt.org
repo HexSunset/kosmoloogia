@@ -55,7 +55,7 @@ $G = 6.674 \cdot 10^{-11} \frac{N \cdot m^2}{kg^2}$ on gravitatsiooni konstant.
 * Kepleri kolm seadust
 
 #+CAPTION: Kepleri seadused
-[[/pildid/kepleri_seadused.png]]
+[[../static/pildid/kepleri_seadused.png]]
 
 ** Taevakeha orbiidi kuju seadus
 Kõigi taevakehade orbiidid on ellipsid, mille üheks fookuseks on päike.
@@ -81,7 +81,7 @@ Planeetide tiirlemisperioodide ruudud suhtuvad nagu nende orbiitide pikemate poo
 
 $H_0$ tähistab Hubble'i konstanti ja on väärtusega $75\frac{km/s}{Mpc}$.
 
-$l$ tähistab objekti kaugust vaatlejast parsekides.
+$l$ tähistab objekti kaugust vaatlejast megaparsekides.
 
 $v$ tähistab objekti kaugenemise kiirust universumi paisumise tõttu.
 
@@ -104,7 +104,7 @@ $v_s$ on allika kiirus vaatleja suhtes.
 
 #+CAPTION: Doppleri effekt
 #+attr_html: :width 600px
-[[/pildid/Doppler.png]]
+[[../static/pildid/Doppler.png]]
 
 * Parallaks ja parsek
 
@@ -112,11 +112,13 @@ Kaugemal asuvad objektid liiguvad näivalt vähem vaatleja suhtes kui lähedal o
 
 Parsek ($pc$) on objekti kaugus, mis liigub parallaksi tõttu näiliselt 1 kaaresekundi ($1/3600$ kraadi).
 
+$D = \frac{1}{\alpha}$, kus $\alpha$ on näiv parallaks kaaresekundites ja $D$ on kaugus parsekides.
+
 $1 pc = 3.26 ly$.
 
 #+CAPTION: Parallaks ja parsek
 #+attr_html: :height 400px
-[[/pildid/Parallaks_ja_parsek.png]]
+[[../static/pildid/Parallaks_ja_parsek.png]]
 
 
 * Tähesuurus
@@ -178,11 +180,11 @@ põhjustatud tõusu ja mõõna jõu poolt.
 
 #+attr_html: :width 600px
 #+CAPTION: Päikesevarjutus
-[[/pildid/päikesevarjutus.jpg]]
+[[../static/pildid/päikesevarjutus.jpg]]
 
 #+attr_html: :width 600px
 #+CAPTION: Kuuvarjutus
-[[/pildid/kuuvarjutus.png]]
+[[../static/pildid/kuuvarjutus.png]]
 
 * Päikesesüsteem
 Päikesesüsteem koosneb Päikesest ja tema ümber tiirlevatest kehadest. Sinna alla kuuluvad planeedid (8) ja nende kuud, kääbusplaneedid (5+), asteroidid ja komeedid.
@@ -204,14 +206,14 @@ Kõik planeedid tiirlevad ühel tasandil ja samas suunas päikese pöörlemisega
 | *Rõngad*    | On kõigil          | Puudub                 |
 
 #+CAPTION: Päikesesüsteemi planeedid
-[[/pildid/planets-to-scale.jpg]]
+[[../static/pildid/planets-to-scale.jpg]]
 
 *** Merkuur
 Merkuur on kõige väiksem planeet ja Päiksele kõige lähem. Tal puudub atmosfäär ja orbiit on piklik. Välimuselt meenutab Kuud.
 
 #+attr_html: :width 480px
 #+CAPTION: Merkuur
-[[/pildid/merkuur.jpg]]
+[[../static/pildid/merkuur.jpg]]
 
 *** Veenus
 Veenus on Maale lähim planeet ja talle sarnase suurusega. Ta on kaetud tiheda ja läbipaistmatu pilvekihiga,
@@ -219,14 +221,14 @@ mille põhjustatud kasvuhooneefekti tõttu on ta kõige kuumema pinnaga planeet.
 
 #+attr_html: :width 480px
 #+CAPTION: Veenus (radarkaart)
-[[/pildid/Veenuse-radarkaart.jpg]]
+[[../static/pildid/Veenuse-radarkaart.jpg]]
 
 *** Maa
 Maa on eriline, sest siin on vesi kolmes faasis, mis on alus elu tekkimiseks. Lisaks on meie Kuu üks suuremaid kaaslasi terves päikesesüsteemis.
 
 #+attr_html: :height 480px
 #+CAPTION: Maa
-[[/pildid/Maa.jpg]]
+[[../static/pildid/Maa.jpg]]
 
 *** Marss
 Marss on punase pinnaga planeet, mis on mõõtmetelt pool Maad. Tal on kaks kaaslast Phobos ja Deimos. Marsi pinnal on kuivanud jõesängid ja poolustel on jääd.
@@ -234,7 +236,7 @@ Marss on ainus planeet, mille peale inimesed minna tahavad.
 
 #+attr_html: :height 480px
 #+CAPTION: Marss
-[[/pildid/Marss.png]]
+[[../static/pildid/Marss.png]]
 
 *** Jupiter
 Jupiter on päikesesüsteemi suurim planeet. Ta on gaasihiid ja koosneb põhiliselt vesinikust ja heeliumist. Jupiter on äratuntav oma triipude ja punase täpi pärast.
@@ -242,7 +244,7 @@ Kokku on tal üle 80 kuu.
 
 #+attr_html: :height 480px
 #+CAPTION: Jupiter
-[[/pildid/Jupiter.jpg]]
+[[../static/pildid/Jupiter.jpg]]
 
 #+CAPTION: Jupiteri suuremad ja olulisemad kaaslased (Galilei kuud)
   + *Io* - Kõige geoloogiliselt aktiivsem keha päiksesüsteemis, ta pinnal on mitusada väävlit purskavat vulkaani.
@@ -256,7 +258,7 @@ Kokku Jupiteriga sarnane hulk kaaslasi.
 
 #+attr_html: :height 480px
 #+CAPTION: Saturn
-[[/pildid/Saturn.jpg]]
+[[../static/pildid/Saturn.jpg]]
 
 *** Uraan
 Uraan on ühtlase välimusega helesinine gaasihiid. Erinevalt teistest planeetidest on ta pöörlemistelg peaaegu orbiidi tasandil.
@@ -266,7 +268,7 @@ Sarnane Uraanile, aga raskem. Tema pinnal on näha pilvi ja torme. Avastati algs
 
 #+attr_html: :height 480px
 #+CAPTION: Uraan vs Neptuun
-[[/pildid/Uraan-Neptuun.jpeg]]
+[[../static/pildid/Uraan-Neptuun.jpeg]]
 
 ** Asteroidid
 Kivist ja/või metallist kamakad. Enamik asuvad Marsi ja Jupiteri vahelises vöös. Neil ei ole kindlaid orbiite. Asteroide on loendamatu arv. Jupiteri
@@ -284,12 +286,12 @@ Meteoorivool tekib, kui Maa liigub läbi komeedi saba jäänuste, mis põleb atm
 Tähed on hiigelsuured tulised gaasikerad. Nende pinnatemperatuur on 3000K - 30000K.
 
 #+CAPTION: H-R diagramm
-[[/pildid/HR-diagram.png]]
+[[../static/pildid/HR-diagram.png]]
 
 ** Päike
 #+attr_html: :height 600px
 #+CAPTION: Päike
-[[/pildid/Päike.jpg]]
+[[../static/pildid/Päike.jpg]]
 
 
 #+CAPTION: Päikese koostis
@@ -311,7 +313,7 @@ Tähe suure massi ja seega gravitatsiooni tõttu on selle sees ekstreemselt kõr
 
 #+attr_html: :height 480px
 #+CAPTION: Prooton-prooton reaktsioon
-[[/pildid/Prooton-prooton-reaktsioon.png]]
+[[../static/pildid/Prooton-prooton-reaktsioon.png]]
 
 ** Valged kääbused
 Valged kääbused on pisikesed ja tuhmid, kuid väga tulised tähed. Nad on tekkinud väikeste tähtede surma tagajärjel.
@@ -360,7 +362,7 @@ kiirgavad röntgen ja/või raadiokiiri magnetpooluste suunas. Nende signaalide a
 
 #+attr_html: :width 600px
 #+CAPTION: Pulsari skeem
-[[/pildid/Pulsar.png]]
+[[../static/pildid/Pulsar.png]]
 
 ** Must auk
 Must auk on piirkond, kus gravitatsioon on nii tugev, et isegi valgus ei saa sellest välja. Selle piiri nimi on sündmuste horisont. Mustas augus tõmmatakse ühte
@@ -369,7 +371,7 @@ see venitatakse välja kuni läheb katki. Seda nähtust kutsutakse spagetifitakt
 
 #+attr_html: :width 1000px
 #+CAPTION: Must auk Linnutee keskel
-[[/pildid/Must-auk.jpg]]
+[[../static/pildid/Must-auk.jpg]]
 
 * Galaktikad
 Galaktikad on suured tähtede kogumid, mille keskel on hiigelsuur must auk. Nad jaotatakse kolme gruppi:
@@ -393,7 +395,7 @@ Galaktikad moodustavad omakorda superparvi, mis loovad piisavalt suurel skaalal 
 
 #+attr_html: :height 600px
 #+CAPTION: Laniakea superparv
-[[/pildid/laniakea-superparv.jpg]]
+[[../static/pildid/laniakea-superparv.jpg]]
 
 * Tume aine ja energia
 *Aine* - Universumis mõjuv gravitatsioon on suurem kui ta nähtava massi järgi olema peaks.
@@ -414,7 +416,7 @@ tugev tuumajõud ja tekivad prootonid. Temperatuur langeb järjest. 380000 aasta
 
 #+attr_html: :width 600px
 #+CAPTION: Suure paugu käik
-[[/pildid/Suur_pauk.jpg]]
+[[../static/pildid/Suur_pauk.jpg]]
 
 Kosmoloogilised "paradoksid", mis viitavad Suure Paugu teooria olemasolule:
   1. Gravitatsiooni paradoks. Kui universum on igavene, peaks kõik mass juba ühes punktis koos olema.

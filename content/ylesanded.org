@@ -184,8 +184,7 @@
     - Ümber Päikse. Marsi ja Jupiteri orbiitide vahelises asteroidivöös. Ringikujulised orbiidid.
 32. Mis on komeet?
     - Sabatäht, nagu muumides
-    - Jääst
-    - Päikesele lähemale jõudes hakkab sulama, jääb jää ja tolmupilv.
+    - Jääst Päikesele lähemale jõudes hakkab sulama, jääb jää ja tolmupilv.
 33. Kirjeldage komeetide liikumist.
     - Väga elliptiline orbiit.
 34. Mida nimetatakse meteooridks, meteoriidiks?
@@ -208,3 +207,77 @@
     - Tekivad erinevatest gaasipilve kihtidest, kus on raskemad elemendid päiksele lähemal. Keskel põhiliselt Vesinik ja Heelium
 41. Mis on Oorti pilv?
     - Päikesesüsteemi ääres asuv pilv, kust komeedid tulevad. Komeetide pesa.
+
+
+** Tähed
+
+1. Millised on Päikese mõõtmed Maaga võrreldes?
+   - 330000x suurema massiga
+   - 109 Maa läbimõõtu - 1.4M kilomeetrit
+2. Seletage lauset "Päike on tüüpiline täht".
+   - Keskmise suurusega.     
+   - Temast ei saa musta auku.
+3. Miks näib Päikese serv teravana?
+   - Sest ta fotosfäär on õhuke
+4. Mis on granulatsioon?
+   - Päikese pinnal tekivad tükid
+   - Mustadest laikudest koosnev teraline muster
+5. Milline on Päikese atmosfäär?
+   - Kromosfäär - paartuhat kilomeetrit, punane sähvatus kohe enne Päikese kustumist
+   - Kroon - Ebakorrapärase kujuga nõrk helendus Päikese ümber
+6. Kuidas Päike pöörleb?
+   - Vastupäeva
+7. Kust saab Päike energiat?
+   - Termotuumareaktsioonidest!!!!!!!! 0.7% massist eraldub energiana
+8. Kuidas jõuab Päikese sisemuses tekkiv energia meieni?
+   - Aeglaselt
+   - Liigub pinnale kiirgusena, kosmoses edasi konvektsiooni teel.
+9. Mida nimetatakse päikeselaiguks?
+   - Tumedat kohta päikese pinnal, mis on jahedam ümbritsevast ainest ja omab tugevat magnetvälja.
+10. Mis on tähesuurus?
+    - Tema heledus
+11. Kuidas on tähesuurused seotud tähtede heledusega?
+    - logaritmiliselt
+    - Suurem tähesuurus -> Nõrgema valgusega.
+12. Miks erinevad fotograafilised tähesuurused visuaalsetest?
+    - Eri tüüpi kiirgusvastuvõtjad on tundlikud erinevates lainepikkuste vahemikes.
+    - Silmad ei ole kaamerad
+13. Mis on värvusindeks? Millest see sõltub?
+    - Erinevate spektripiirkondades määratud tähesuuruste vahe.
+14. Kuidas leida tähe ruumkiirust?
+    - See tähendab tähe kiirus päikese suhtes, duh.
+    - Tähe kaugus, vaatesuunaline kiirus.
+15. Millised on tähtede temperatuurid?
+    - soe. 3000K - 30000K.
+16. Kuidas saab määrata tähe läbimõõtu? Aga massi?
+    - läbi näiva nurkläbimõõdu ja kauguse.
+    - temperatuur ja heledus.
+17. Milliseid järeldusi saab teha tähespektrist?
+    - Kui soe ta on,
+    - Mis ainetest ta koosneb.
+    - Kas tal on planeete
+19. Mis on Hertzsprungi-Russeli diagramm?
+    - Värvus/heledusdiagramm, tähtede arvulist jaotust temperatuuri ja heleduse järgi.
+20. Mis on peajada?
+    - See osa HR diagrammist, kus enamus normaalseid tähti on. :)
+22. Millest tekivad tähed?
+    - Gaasist ja tolmust.
+23. Millest sõltub tähe tasakaaluseisund? Millised jõud peavad olema tähe sisemuses tasakaalus?
+    - Massist. Keemilisest koostisest
+    - Siserõhk ja gravitatsioon.
+24. Kuidas tekib tähe kiirgus?
+    - Elemendid kombineeruvad ta sisemuses, seal vallanduv energia liigub aeglaselt pinnale.
+25. Millal muutub täht punaseks hiiuks? Kirjeldage seda tähte.
+    - Siis kui ta hakkab oma elu lõppu jõudma. vanadus :(
+    - Peajada täht, Kui kõik vesinik saab heeliumiks ära põletatud.
+    - Lõpuks jääb alles tihe tuum e valge kääbus.
+26. Kuidas lõpeb tähe areng?
+    - Punane hiid -> Valge kääbsus
+    - Supernoova -> Must auk/neutrontäht
+27. Millisesse masside vahemikku kuuluvad "normaalsed" peajada tähed.
+    - 0.1 kuni 50 päikesemassi.
+28. Milliste füüsikaliste protsessidega on see vahemik piiratud?
+    - Rõhk ja gravitatsioon peavad tasakaalus olema et täht töötaks.
+    - üle 100 päikesemassi tekib kohe supernoova -> must auk.
+29. Miks loetakse Päikest teise põlvkonna täheks?
+    - Sest päikesesüsteemis on elemente, mis said tekkida ainult tähe surma tagajärjel.
