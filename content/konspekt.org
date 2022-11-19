@@ -373,6 +373,9 @@ see venitatakse välja kuni läheb katki. Seda nähtust kutsutakse spagetifitakt
 #+CAPTION: Must auk Linnutee keskel
 [[../static/pildid/Must-auk.jpg]]
 
+* Kvasarid
+Tähelaadsed objektid, mille punanihe ja absoluutne heledus on võrreldavad galaktikate omadega. Põhimõtteliselt mingid vahepealsed objektid.
+
 * Galaktikad
 Galaktikad on suured tähtede kogumid, mille keskel on hiigelsuur must auk. Nad jaotatakse kolme gruppi:
 
