@@ -281,3 +281,63 @@
     - üle 100 päikesemassi tekib kohe supernoova -> must auk.
 29. Miks loetakse Päikest teise põlvkonna täheks?
     - Sest päikesesüsteemis on elemente, mis said tekkida ainult tähe surma tagajärjel.
+
+** Galaktikad
+1. Mis on Linnute?
+   - Meie galaktika uwu
+2. Kirjeldage meie Galaktikat.
+   - Suht tavaline spiraalgalaktika
+   - õhuke, 1000pc paksune
+   - teda ümbritseb kerakujuline vanadest tähtedest koosnev halo
+   - Päike asub galaktika keskmest 8,5 kPc kaugusel
+   - Keskel hiigelsuur mustauk
+3. Kuidas klassifitseeritake galaktikaid? Kirjeldage galaktikatüüpe.
+   - Spiraal - Aktiivne ainult spiraalide peal, seal on gaas ja tolm. Pöörleb
+   - Elliptiline - vana, uusi tähti ei sünni eriti. Stabiilne, vähe gaasi ja tolmu. Suur võrreldes teistega
+   - Ebakorrapärane - Väga aktiivne, noor, väiksem.
+4. /pole vaja/
+5. Mis on Hubble'i seadus ja Hubble'i konstant?
+   - Hubble'i seadus kirjeldab universumi ruumi paisumise kiirust.
+   - v = H_0 * l, ütleb kui kiiresti eemaldub ruumi paisumise tõttu mingi teine objekt maast.
+6. /pole vaja/
+7. Kirjeldage spiraalsete galaktikate ehitust?
+   - Keskel suur must auk.
+   - Keerlevad spiraalid, kus on tolm ja gaas, sünnivad uued tähed.
+   - Suht lapik, pannenkoek
+8. /pole vaja/
+9. Selgitage mõistet "noored ja vanad tähed".
+   - Suure heledusega peajada täht on noor
+   - Noortes tähtedes on vesinikku veel, mida energia tootmiseks kasutada.
+   - Vanades on vesinik otsas, hakkab surema. :(
+10. /pole vaja/
+11. /pole vaja/
+12. /pole vaja/
+13. Mis on kvasarid?
+    - Tähesarnased objektid, mille punanihe ja absoluutne heledus on võrreldavad galaktikate omadega.
+14. /pole vaja/
+15. /pole vaja/
+16. Kirjeldage galaktikate ruumjaotust.
+    - Tähed on jaotunud suht ühtlaselt.
+    - Spiraalgalaktikas põhiliselt spiraalidel.
+17. Selgitage mõistet "universumi kärgstruktuur".
+    - Piisavalt suurel skaalal moodustavad galaktikate superparved kärjelaadse struktuuri, mille vahel on tühjus.
+
+** Universum
+1. Mis on Universum?
+   - Kõik, mis on olemas
+2. Kuidas mõista aja ja ruumi lõpmatust?
+   - Matemaatiliselt: Igast esemest (galaktikast) kaugemal on näha (samasuguseid) galaktikaid; igast sündmusest varm on toimunud (samasuguseid) sündmusi.
+3. Sõnastage kosmoloogiline printsiip. Mis on selle printsiibi mõte (eesmärk)?
+   - Universum on igalpool ühesugune, ükskõik kust ja mis suunas sa vaatad.
+   - Ta on läbi aja olnud sarnane igal pool.
+   - Eesmärk on kirjeldada lõpmatut universumit mingi lõpliku osa kaudu.
+4-11. /pole vaja/
+12. Milline on Universumi preagune temperatuur? Milline oli ta minevikus?
+   - 2,7K (kosmilise taustkiirguse temperatuur)
+   - Alguses lõpmatult soe, sest kõik aine on koos vms.
+13. Kirjeldage aine oleku muutumist Universumi paisumise käigus.
+   - Algselt plasma laadne, eraldi aatomituumad ja elektronid
+   - Kui aatomituumad ühinesid elektronidega hakkas järjest hõredamaks gaasiks muutuma.
+15. Miks saab galaktikate teke võimalikuks alles pärast vesiniku rekombineerumist?
+    - vesiniku rekombineerumine: see kui oli piisavalt jahe et aatomituumad ja elektronid saaksid liituda
+    - Seda oli vaja selleks, et saaks toimuda gravitatsiooniline kondenseerumine, tihkete objektide (su ema) tekkimine.
